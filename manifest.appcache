@@ -1,0 +1,16 @@
+CACHE MANIFEST
+#DATE 2016-02-07
+CACHE:
+css/index.css
+css/simple-sidebar.css
+contact.php
+contacto.html
+gulpfile.js
+index.html
+inscribete.html
+participantes.html
+NETWORK:
+*
+
+FALLBACK:
+#static.html
