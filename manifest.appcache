@@ -1,14 +1,21 @@
 CACHE MANIFEST
-#DATE 2016-02-07
+#DATE 2016-02-17
 CACHE:
 css/index.css
 css/simple-sidebar.css
-contact.php
 contacto.html
 gulpfile.js
 index.html
 inscribete.html
 participantes.html
+pasado.html
+resultadossinfin.html
+resultadossinfin3x3sub30.html
+resultadossinfin3x3sub15.html
+resultadossinfin2x2.html
+resultadossinfinskewb.html
+resultadossinfin3bld.html
+resultadossinfinpyra.html
 NETWORK:
 *
 
